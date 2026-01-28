@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.vscode/
+.ipynb_checkpoints/
+data/raw/telecom_churn.csv
+data/processed/processed_data.csv
+data/processed/top_200_churners.csv
+models/*.pkl
+models/*.joblib
